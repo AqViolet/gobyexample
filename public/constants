@@ -87,8 +87,8 @@ and numeric values.</p>
         
         <tr>
           <td class="docs">
-            <p>A <code>const</code> statement can appear anywhere a <code>var</code>
-statement can.</p>
+            <p>A <code>const</code> statement can appear inside a
+function body.</p>
 
           </td>
           <td class="code leading">
